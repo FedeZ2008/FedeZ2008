@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Federico Zimmer
 
-<!--
-**FedeZ2008/FedeZ2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub.  
+Aquí encontrarás una muestra de mi trabajo, mis intereses y mis contribuciones a la comunidad tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy Product Analyst en una compañía de seguros y estudiante de Inteligencia Artificial en la Facultad de Ciencias Exactas e Ingeniería (UNR).  
+Apasionado por el análisis de datos, la tecnología y la innovación.
+
+---
+
+## 🛠️ Habilidades & Tecnologías
+
+*Agrega aquí tus principales tecnologías y herramientas (por ejemplo: Python, SQL, Power BI, Machine Learning, etc.)*
+
+---
+
+## 🌟 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| -------- | ----------- | ----------- |
+| Nombre del Proyecto | Breve descripción del proyecto | Tecnologías utilizadas |
+| Nombre del Proyecto | Breve descripción del proyecto | Tecnologías utilizadas |
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![FedeZ2008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FedeZ2008&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeZ2008&layout=compact&theme=radical)
+
+---
+
+## 📫 Conecta conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/federico-zimmer-01a2411a7)
