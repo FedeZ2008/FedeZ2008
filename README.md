@@ -22,8 +22,6 @@ Apasionado por el análisis de datos, la tecnología y la innovación.
 
 | Proyecto | Descripción | Tecnologías |
 | -------- | ----------- | ----------- |
-| Nombre del Proyecto | Breve descripción del proyecto | Tecnologías utilizadas |
-| Nombre del Proyecto | Breve descripción del proyecto | Tecnologías utilizadas |
 
 ---
 
