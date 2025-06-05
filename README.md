@@ -14,7 +14,7 @@ Apasionado por el análisis de datos, la tecnología y la innovación.
 
 ## 🛠️ Habilidades & Tecnologías
 
-*Agrega aquí tus principales tecnologías y herramientas (por ejemplo: Python, SQL, Power BI, Machine Learning, etc.)*
+*Python, SQL, Power BI, Machine Learning*
 
 ---
 
